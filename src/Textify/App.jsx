@@ -33,7 +33,7 @@ function App() {
 
   return (
   <>
-  <Router>
+  <Router basename = "/Textify">
       <Navbar
         title="Textify"
         aboutText="About Us"
